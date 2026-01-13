@@ -1,5 +1,5 @@
-<h1 align="center">👋 Привет, я [Имя]</h1>
-<h3 align="center">💻 [Ваша специализация: web-developer]</h3>
+<h1 align="center">👋 Привет, я i000993i</h1>
+<h3 align="center">💻Ваша специализация: web-developer</h3>
 
 ---
 
@@ -19,8 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=[ваш_username]&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ваш_username]&layout=compact&theme=radical&hide=other&langs_count=8" alt="Top Languages" />
 </p>
-
-]
 
 ---
 <p align="center">⭐ Не стесняйтесь заглянуть в мои репозитории и оставить звездочку!</p>
