@@ -1,5 +1,5 @@
 <h1 align="center">👋 Привет, я i000993i</h1>
-<h3 align="center">💻Ваша специализация: web-developer</h3>
+<h3 align="center">💻Специализация: web-developer, python-developer</h3>
 
 ---
 
